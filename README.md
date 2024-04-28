@@ -1,6 +1,7 @@
 # virtual-hand-board-
 
-virtualenv venv 
+virtualenv venv
+ <br>
 source venv/bin/activate
 
 pip install mediapipe
