@@ -1,5 +1,5 @@
 # virtual-hand-board-
-
+# steps to run the code 
 virtualenv venv
  <br>
 source venv/bin/activate
