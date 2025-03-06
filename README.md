@@ -1,5 +1,8 @@
 # virtual-hand-board-
-# steps to run the code 
+# steps to run the code
+ 
+pip install virtualenv
+
 virtualenv venv
  <br>
 source venv/bin/activate
